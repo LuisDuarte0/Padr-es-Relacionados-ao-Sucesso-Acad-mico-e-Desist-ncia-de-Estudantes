@@ -11,6 +11,6 @@
 
 **Dataset escolhido**: Predict Students Dropout and Academic Success
 
-**Link:** https://www.kaggle.com/datasets/naveenkumar20bps1137/predict-students-dropout-and-academic-success?utm_source=chatgpt.com
+**Link:** https://www.kaggle.com/datasets/naveenkumar20bps1137/predict-students-dropout-and-academic-success
 
 **Pergunta para análise:** Existe uma relação entre a nota do primeiro semestre, o Produto Interno Bruto (PIB) e a taxa de desemprego do país com a chance de o aluno se formar (Graduate) ou abandonar o curso (Dropout)?
